@@ -1,0 +1,9 @@
+node_modules/
+backend/database/labinventory.db
+.env
+.DS_Store
+*.log
+*.swp
+*.swo
+*~
+.vscode/settings.json
