@@ -7,3 +7,4 @@ backend/database/labinventory.db
 *.swo
 *~
 .vscode/settings.json
+*.md
